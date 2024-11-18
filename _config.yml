@@ -21,7 +21,7 @@ repository               : "arus23/arus23.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "headshot.png"
   name             : "Arundhati Shanbhag"
   pronouns         : "she/her"  
   bio              : "Master Student"
