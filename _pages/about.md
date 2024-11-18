@@ -17,7 +17,7 @@ redirect_from:
 
 I currently work as a student researcher under the supervision of Brian B Moser and Prof. Dr. Andreas Dengel at DFKI Kaiserslautern. My work here focuses on Diffusion Models and their applications. My latest work aims to reduce the inference time for zero shot image classification using diffusion models. 
 
-I have 2 years of work experience developing recommendation systems for e-commerce clients at AIEnterprise Inc. Bangalore, India. During my time there, I have designed and developed models to perform upselling and cross-selling of products on e-commerce websites. Additionally, I have contributed to improving query searches on these websites. 
+I have 2 years of work experience developing recommendation systems for e-commerce clients at [AIEnterprise Inc.] (https://www.aienterprise.com/) Bangalore, India. During my time there, I have designed and developed models to perform upselling and cross-selling of products on e-commerce websites. Additionally, I have contributed to improving query searches on these websites. 
 
 Apart from this, I have research and technical writing experience under the mentorship of Prof. Dr. Sebastian Vollmer as a former member of his Data Science for Social Good  (DSSG) group. 
 
