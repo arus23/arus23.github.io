@@ -21,6 +21,10 @@ I have 2 years of work experience developing <b>recommendation systems</b> for e
 
 Apart from this, I have research and technical writing experience in the field of Machine Learning and Deep Learning with an emphasis on AI Ethics under the mentorship of Prof. Dr. Sebastian Vollmer as a former member of his [Data Science and its Applications (DSA)](https://sebastian.vollmer.ms/) group. 
 
+## :page_with_curl: Master Thesis
+
+My Master Thesis "Leveraging Multimodal Environmental Cues for Human-Robot Interaction" was focused on developing multimodal systems for intelligent social robots. To this end, I developed an audio-visual system that used environmental cues to provide context to the robot. The work involved developing an audio classification and simultaneous object detection system. Furthermore, modalities such as scene-text detection and and human activity recogntion were integrated into the multimodal sytem. These capabilities were implemented on the humanoid AMECA robot EMAH at the [Robotics Research Labs](https://rrlab.cs.rptu.de/) Kaiserslautern. The integration of this system allowed EMAH to perceive and interpret her environment more holistically, mimicking humanlike understanding and responses. My work was supervised by Dr. Sarwar Paplu and Prof. Dr. Karsten Berns. 
+
 ## 😸 Other Interests 
 
 When I'm not being a techie, I enjoy cooking, reading, gardening and crocheting. I also enjoy travelling and experiencing different cultures of the world. 
