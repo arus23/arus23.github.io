@@ -11,3 +11,6 @@ The approved floral design is served as static files from the repository root. `
 - Commit the changed content and generated HTML to the GitHub Pages publishing branch.
 
 The old CV download is retained but is not advertised as current. Publications link to Google Scholar until a verified publication list is added.
+
+## Publications and news
+Edit `site-source/publications.json` and `site-source/news.json`, then run `python3 site-source/build.py`. List each work once, with published and preprint links together. Keep author order from the paper; names containing Arundhati are highlighted automatically. News targets refer to publication IDs. Just Leaf It is displayed by its ICANN 2026 conference/online year; Springer’s formal citation uses a 2027 volume year.

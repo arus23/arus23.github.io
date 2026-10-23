@@ -1,0 +1,121 @@
+[
+  {
+    "id": "just-leaf-it",
+    "year": 2026,
+    "venue": "ICANN 2026",
+    "title": "Just Leaf It: Accelerating Diffusion Classifiers with Hierarchical Class Pruning",
+    "authors": [
+      "Arundhati S. Shanbhag",
+      "Brian B. Moser",
+      "Tobias C. Nauen",
+      "Stanislav Frolov",
+      "Federico Raue",
+      "Andreas Dengel"
+    ],
+    "summary": "A hierarchical approach to diffusion classification that prunes irrelevant label groups, reducing class evaluations and speeding up inference.",
+    "note": "Presented at ICANN in Padua, Italy. Arundhati S. Shanbhag and Brian B. Moser contributed equally.",
+    "links": {
+      "Published paper": "https://link.springer.com/chapter/10.1007/978-3-032-38404-1_24",
+      "arXiv": "https://arxiv.org/abs/2411.12073"
+    },
+    "featured": true
+  },
+  {
+    "id": "hypercore",
+    "year": 2026,
+    "venue": "ICPR 2026",
+    "title": "HyperCore: Coreset Selection Under Noise via Hypersphere Models",
+    "authors": [
+      "Brian B. Moser",
+      "Arundhati S. Shanbhag",
+      "Tobias Nauen",
+      "Stanislav Frolov",
+      "Federico Raue",
+      "Joachim Folz",
+      "Andreas Dengel"
+    ],
+    "summary": "Adaptive coreset selection using class-specific hyperspheres to identify useful training samples in noisy datasets.",
+    "links": {
+      "Published paper": "https://link.springer.com/chapter/10.1007/978-3-032-31335-5_15",
+      "arXiv": "https://arxiv.org/abs/2509.21746"
+    }
+  },
+  {
+    "id": "prism",
+    "year": 2026,
+    "venue": "TMLR 2026",
+    "title": "PRISM: Diversifying Dataset Distillation by Decoupling Architectural Priors",
+    "authors": [
+      "Brian B. Moser",
+      "Shalini Sarode",
+      "Federico Raue",
+      "Stanislav Frolov",
+      "Krzysztof Adamkiewicz",
+      "Arundhati Shanbhag",
+      "Joachim Folz",
+      "Tobias C. Nauen",
+      "Andreas Dengel"
+    ],
+    "summary": "Dataset distillation with different teacher architectures for supervision and regularization, encouraging greater diversity in synthetic training data.",
+    "links": {
+      "Paper": "https://openreview.net/forum?id=xN58FtB1Gq",
+      "arXiv": "https://arxiv.org/abs/2511.09905",
+      "Code": "https://github.com/Brian-Moser/prism"
+    }
+  },
+  {
+    "id": "subzerocore",
+    "year": 2025,
+    "venue": "Preprint",
+    "title": "SubZeroCore: A Submodular Approach with Zero Training for Coreset Selection",
+    "authors": [
+      "Brian B. Moser",
+      "Tobias C. Nauen",
+      "Arundhati S. Shanbhag",
+      "Federico Raue",
+      "Stanislav Frolov",
+      "Joachim Folz",
+      "Andreas Dengel"
+    ],
+    "summary": "A training-free approach to choosing representative data subsets by balancing coverage and local density.",
+    "links": {
+      "arXiv": "https://arxiv.org/abs/2509.21748",
+      "PDF": "https://arxiv.org/pdf/2509.21748"
+    }
+  },
+  {
+    "id": "diffusion-survey",
+    "year": 2024,
+    "venue": "IEEE TNNLS · Online 2024",
+    "title": "Diffusion Models, Image Super-Resolution, and Everything: A Survey",
+    "authors": [
+      "Brian B. Moser",
+      "Arundhati S. Shanbhag",
+      "Federico Raue",
+      "Stanislav Frolov",
+      "Sebastian Palacio",
+      "Andreas Dengel"
+    ],
+    "summary": "A survey of diffusion-based image super-resolution, covering foundations, methods, open challenges, and future research directions.",
+    "links": {
+      "Published paper": "https://doi.org/10.1109/TNNLS.2024.3476671",
+      "arXiv": "https://arxiv.org/abs/2401.00736"
+    }
+  },
+  {
+    "id": "audio-visual",
+    "year": 2024,
+    "venue": "Preprint",
+    "title": "Audio-Visual Environmental Cues in Human-Robot Interaction",
+    "authors": [
+      "Arundhati Shanbhag",
+      "Sarwar Paplu",
+      "Prabesh Khadka",
+      "Karsten Berns"
+    ],
+    "summary": "Exploring audio-visual environmental information for human–robot interaction.",
+    "links": {
+      "ResearchGate": "https://www.researchgate.net/publication/389801018_Audio-Visual_Environmental_Cues_in_Human-Robot_Interaction"
+    }
+  }
+]

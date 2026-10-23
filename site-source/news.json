@@ -1,0 +1,23 @@
+[
+  {
+    "date": "2026-09",
+    "label": "Sep 2026",
+    "type": "Conference",
+    "text": "Presented Just Leaf It at ICANN in Padua, Italy.",
+    "target": "just-leaf-it"
+  },
+  {
+    "date": "2026-08",
+    "label": "Aug 2026",
+    "type": "Publication",
+    "text": "HyperCore published in the ICPR 2026 proceedings.",
+    "target": "hypercore"
+  },
+  {
+    "date": "2026-01",
+    "label": "Jan 2026",
+    "type": "Publication",
+    "text": "PRISM published in Transactions on Machine Learning Research.",
+    "target": "prism"
+  }
+]
